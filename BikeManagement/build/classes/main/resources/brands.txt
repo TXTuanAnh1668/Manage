@@ -1,0 +1,11 @@
+B000, Big, Taiwan
+B001, Giant, Taiwan
+B002, Trek, USA
+B003, Nigker, Russia
+B004, Hitler, Vietnam
+B005, Biker, Nigeria
+B006, Cube, USA
+B007, Anger, UK
+B008, Yeti, USA
+B009, Meriana, Taiwan
+B010, Lana, USA

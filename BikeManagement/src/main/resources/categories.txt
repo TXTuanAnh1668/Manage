@@ -1,0 +1,9 @@
+C000, Omanko Bike
+C001, Mountain Bike
+C002, Hybrid Bike
+C003, Volcano Bike
+C004, Ocean Bike
+C005, Asian Bike
+C006, India Bike
+C007, Slave Bike
+C008, Master Bike
